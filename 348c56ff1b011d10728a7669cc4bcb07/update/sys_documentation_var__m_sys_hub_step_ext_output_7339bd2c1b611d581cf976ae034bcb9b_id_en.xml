@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="id" label="id" language="en" table="var__m_sys_hub_step_ext_output_7339bd2c1b611d581cf976ae034bcb9b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <help/>
+            <hint/>
+            <label>id</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_7339bd2c1b611d581cf976ae034bcb9b</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>AP\BHAVANR</sys_created_by>
+            <sys_created_on>2022-08-23 03:35:07</sys_created_on>
+            <sys_id>0c49bd2c1b611d581cf976ae034bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>id</sys_name>
+            <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_7339bd2c1b611d581cf976ae034bcb9b_id_en</sys_update_name>
+            <sys_updated_by>AP\BHAVANR</sys_updated_by>
+            <sys_updated_on>2022-08-23 03:35:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
