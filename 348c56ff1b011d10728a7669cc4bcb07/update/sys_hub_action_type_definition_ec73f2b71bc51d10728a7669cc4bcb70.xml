@@ -19,13 +19,13 @@
         <natlang/>
         <outputs/>
         <outputs/>
-        <state>published</state>
+        <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-08 13:38:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>ec73f2b71bc51d10728a7669cc4bcb70</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>backup_ctask_javascript</sys_name>
         <sys_overrides/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_ec73f2b71bc51d10728a7669cc4bcb70</sys_update_name>
         <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
-        <sys_updated_on>2022-09-30 17:52:02</sys_updated_on>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -47,10 +47,10 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-08 13:55:01</sys_created_on>
         <sys_id>d647f67b1b091d10728a7669cc4bcbe1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-11 13:34:00</sys_updated_on>
-        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FD5a47f67b30091d100a4fd900092d0170":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD5a47f67b30091d100a4fd900092d0170.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD5a47f67b30091d100a4fd900092d0170\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FD5a47f67b30091d100a4fd900092d0170":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD5a47f67b30091d100a4fd900092d0170.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD5a47f67b30091d100a4fd900092d0170\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">5647f67b1b091d10728a7669cc4bcb74</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -123,14 +123,14 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-08 13:52:56</sys_created_on>
         <sys_id>37c6fef71b091d10728a7669cc4bcb26</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-22 18:03:53</sys_updated_on>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=37c6fef71b091d10728a7669cc4bcb26"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -155,9 +155,9 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-08 13:52:56</sys_created_on>
         <sys_id>bbc6fef71b091d10728a7669cc4bcb3d</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-22 17:57:56</sys_updated_on>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 
 var gr1 = inputs.code;
@@ -166,16 +166,32 @@ var code_split = gr1.split(",");
 for(var i=0; i &lt; code_split.length; i++){
 gs.info('Test1' +code_split[i]);
 var gr = new GlideRecord("change_task");
-gr.addQuery('number', inc_num);
- gr.addQuery('123TEXTQUERY321',code_split[i]);
+//gr.addQuery('number', inc_num);
+gr.addEncodedQuery('number=' +inc_num + '^short_descriptionLIKE' +code_split[i] + '^ORdescriptionLIKE' +code_split[i] + '^ORclose_notesLIKE' +code_split[i] + '^ORwork_notes_listLIKE' +code_split[i] + '^ORreview_commentsLIKE' +code_split[i]);
 //gs.info('Test' +gr.getEncodedQuery());
 gr.query();
- 
+gs.info('Testconcat' +gr.getEncodedQuery());
 while(gr.next())
 {
-    outputs.id=gr.sys_id;
+  var id;
+  var string = outputs.id = gr.short_description;
+  var descrip = outputs.id = gr.description;
+  var notes = outputs.id = gr.close_notes;
+  var comments = outputs.id = gr.review_comments;
+  var consolidate = string.concat(" "+descrip+ " " +notes+ " " +comments)
+  gs.info('merge' +consolidate);
+  var match = code_split[i]; // word to match
+  var regex = new RegExp('\\b('+match+')\\b');
+  var result = (consolidate.match(regex) != null);
+  if (result == true){
+   gs.info("Yes!!! we got the correct incident to close");
+   outputs.id=gr.sys_id;
    }
- 
+  else{
+    gs.info("not working");
+    gs.info('merge' +consolidate);
+    outputs.id="invalid record"};
+   }
 }
 })(inputs, outputs);
 </value>
@@ -217,6 +233,18 @@ while(gr.next())
         <sys_updated_on>2022-08-08 13:52:56</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_37c6fef71b091d10728a7669cc4bcb26</table>
         <value>{{action.inc_input}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>script</field>
+        <id>37c6fef71b091d10728a7669cc4bcb26</id>
+        <sys_created_by>UPSTREAMACCTS\KWIJEWA</sys_created_by>
+        <sys_created_on>2022-09-30 18:52:17</sys_created_on>
+        <sys_id>3197f0c11bd691141cf976ae034bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_37c6fef71b091d10728a7669cc4bcb26^id=37c6fef71b091d10728a7669cc4bcb26"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=37c6fef71b091d10728a7669cc4bcb26"/>
@@ -480,11 +508,11 @@ while(gr.next())
         <sys_created_on>2022-08-08 13:52:56</sys_created_on>
         <sys_id>77c6fef71b091d10728a7669cc4bcb38</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>id</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_37c6fef71b091d10728a7669cc4bcb26_id_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-08 13:52:56</sys_updated_on>
         <url/>
@@ -929,13 +957,13 @@ while(gr.next())
         <dont_treat_as_error>false</dont_treat_as_error>
         <label/>
         <order>1</order>
-        <status>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"8c2f6ab2-23c4-4158-882d-ecc8f777c4af\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</status>
+        <status>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"c002e00d-bbf9-4ee6-b89f-79b242f63f8c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</status>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-17 15:18:25</sys_created_on>
         <sys_id>77a0293e1b9159541cf976ae034bcb50</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-17 15:18:25</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:52:17</sys_updated_on>
     </sys_hub_status_condition>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_ec73f2b71bc51d10728a7669cc4bcb70^sys_idNOT IN1086f3101be559581cf976ae034bcbe0,33c6fef71b091d10728a7669cc4bcb24"/>
     <sys_documentation action="INSERT_OR_UPDATE">
@@ -951,11 +979,11 @@ while(gr.next())
         <sys_created_on>2022-08-22 18:03:53</sys_created_on>
         <sys_id>1086f3101be559581cf976ae034bcbe0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>ctask</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ec73f2b71bc51d10728a7669cc4bcb70_ctask_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-22 18:03:53</sys_updated_on>
         <url/>
@@ -974,11 +1002,11 @@ while(gr.next())
         <sys_created_on>2022-08-08 13:52:56</sys_created_on>
         <sys_id>33c6fef71b091d10728a7669cc4bcb24</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>sitecode</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ec73f2b71bc51d10728a7669cc4bcb70_inc_input_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-17 13:38:54</sys_updated_on>
         <url/>
@@ -999,11 +1027,11 @@ while(gr.next())
         <sys_created_on>2022-08-08 13:55:01</sys_created_on>
         <sys_id>5247f67b1b091d10728a7669cc4bcbdd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>js_out</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ec73f2b71bc51d10728a7669cc4bcb70_js_out_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-08 13:55:01</sys_updated_on>
         <url/>
@@ -1022,11 +1050,11 @@ while(gr.next())
         <sys_created_on>2022-08-08 13:55:01</sys_created_on>
         <sys_id>5647f67b1b091d10728a7669cc4bcbc4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Action Status</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ec73f2b71bc51d10728a7669cc4bcb70___action_status___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-08 13:55:01</sys_updated_on>
         <url/>
@@ -1045,11 +1073,11 @@ while(gr.next())
         <sys_created_on>2022-08-08 13:55:01</sys_created_on>
         <sys_id>9e47f67b1b091d10728a7669cc4bcbcb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Don't Treat as Error</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ec73f2b71bc51d10728a7669cc4bcb70___dont_treat_as_error___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-08 13:55:01</sys_updated_on>
         <url/>

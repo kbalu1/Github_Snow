@@ -13,19 +13,19 @@
         <description/>
         <ih_action>false</ih_action>
         <internal_name>copy_of_backupsitecode_ctask_javascript</internal_name>
-        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛incident","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.ctask}}","label":"action➛incident","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"38c1cc03-9a70-49cb-afc0-3b14eedd07cc"}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceUiUniqueId":"","sourceType":"","uiType":"string","uiUniqueId":"9a232d31-e5af-4883-b96a-f2032ab3536e"}},{"name":"{{action.ctask}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master_snapshot>214e75241be11d581cf976ae034bcb5c</master_snapshot>
         <name>backupsitecode_inc_javascript</name>
         <natlang/>
         <outputs/>
         <outputs/>
-        <state>published</state>
+        <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:00</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>852af9ec1b611d581cf976ae034bcbd1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>backupsitecode_inc_javascript</sys_name>
         <sys_overrides/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_852af9ec1b611d581cf976ae034bcbd1</sys_update_name>
         <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
-        <sys_updated_on>2022-09-30 17:51:58</sys_updated_on>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -47,10 +47,10 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>192a7dec1b611d581cf976ae034bcb5f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:40:16</sys_updated_on>
-        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FD112a7decdb611d58e35f229d59c03824":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD112a7decdb611d58e35f229d59c03824.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD112a7decdb611d58e35f229d59c03824\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FD112a7decdb611d58e35f229d59c03824":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD112a7decdb611d58e35f229d59c03824.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD112a7decdb611d58e35f229d59c03824\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">d52a7dec1b611d581cf976ae034bcb26</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -123,14 +123,14 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>4d2a3dec1b611d581cf976ae034bcbe6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:40:16</sys_updated_on>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4d2a3dec1b611d581cf976ae034bcbe6"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -141,27 +141,42 @@
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>492a7dec1b611d581cf976ae034bcb07</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:40:16</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 
 var gr1 = inputs.code;
  var inc_num = inputs.inc;
 var code_split = gr1.split(",");
 for(var i=0; i &lt; code_split.length; i++){
-gs.info('Test1' +code_split[i]);
+//gs.info('Test1' +code_split[i]);
 var gr = new GlideRecord("incident");
-gr.addQuery('number', inc_num);
- gr.addQuery('123TEXTQUERY321',code_split[i]);
+//gr.addQuery('number', inc_num);
+gr.addEncodedQuery('number=' +inc_num + '^short_descriptionLIKE' +code_split[i] + '^ORdescriptionLIKE' +code_split[i] + '^ORclose_notesLIKE' +code_split[i] + '^ORwork_notes_listLIKE' +code_split[i]);
 //gs.info('Test' +gr.getEncodedQuery());
 gr.query();
- 
+gs.info('Testconcat' +gr.getEncodedQuery());
 while(gr.next())
 {
-    outputs.id=code_split[i];
+  var id;
+  var string = outputs.id = gr.short_description;
+  var descrip = outputs.id = gr.description;
+  var notes = outputs.id = gr.close_notes;
+  var consolidate = string.concat(" "+descrip+ " " +notes)
+  gs.info('merge' +consolidate);
+  var match = code_split[i]; // word to match
+  var regex = new RegExp('\\b('+match+')\\b');
+  var result = (consolidate.match(regex) != null);
+  if (result == true){
+   gs.info("Yes!!! we got the correct incident to close");
+   outputs.id=code_split[i];
    }
- 
+  else{
+    gs.info("not working");
+    gs.info('merge' +consolidate);
+    outputs.id="invalid record"};
+   }
 }
 })(inputs, outputs);
 </value>
@@ -205,6 +220,18 @@ while(gr.next())
         <sys_updated_on>2022-08-23 03:40:16</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_4d2a3dec1b611d581cf976ae034bcbe6</table>
         <value>{{action.incident}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>script</field>
+        <id>4d2a3dec1b611d581cf976ae034bcbe6</id>
+        <sys_created_by>UPSTREAMACCTS\KWIJEWA</sys_created_by>
+        <sys_created_on>2022-09-30 18:56:44</sys_created_on>
+        <sys_id>3e98fc491bd691141cf976ae034bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_4d2a3dec1b611d581cf976ae034bcbe6^id=4d2a3dec1b611d581cf976ae034bcbe6"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=4d2a3dec1b611d581cf976ae034bcbe6"/>
@@ -468,11 +495,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>492a7dec1b611d581cf976ae034bcb03</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>id</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_4d2a3dec1b611d581cf976ae034bcbe6_id_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
         <url/>
@@ -917,13 +944,13 @@ while(gr.next())
         <dont_treat_as_error>false</dont_treat_as_error>
         <label/>
         <order>1</order>
-        <status>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"8c2f6ab2-23c4-4158-882d-ecc8f777c4af\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</status>
+        <status>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"c002e00d-bbf9-4ee6-b89f-79b242f63f8c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</status>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>9d2a7dec1b611d581cf976ae034bcb61</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
     </sys_hub_status_condition>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_852af9ec1b611d581cf976ae034bcbd1^sys_idNOT IN092a3dec1b611d581cf976ae034bcb7c,d76a3d201ba11d581cf976ae034bcb38"/>
     <sys_documentation action="INSERT_OR_UPDATE">
@@ -939,11 +966,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>092a3dec1b611d581cf976ae034bcb7c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sitecode</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_852af9ec1b611d581cf976ae034bcbd1_inc_input_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
         <url/>
@@ -962,11 +989,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:40:16</sys_created_on>
         <sys_id>d76a3d201ba11d581cf976ae034bcb38</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>incident</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_852af9ec1b611d581cf976ae034bcbd1_incident_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:40:16</sys_updated_on>
         <url/>
@@ -987,11 +1014,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>5d2a7dec1b611d581cf976ae034bcb2a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Action Status</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_852af9ec1b611d581cf976ae034bcbd1___action_status___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
         <url/>
@@ -1010,11 +1037,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>912a7dec1b611d581cf976ae034bcb57</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Don't Treat as Error</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_852af9ec1b611d581cf976ae034bcbd1___dont_treat_as_error___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
         <url/>
@@ -1033,11 +1060,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:39:01</sys_created_on>
         <sys_id>9d2a7dec1b611d581cf976ae034bcb5b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>js_out</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_852af9ec1b611d581cf976ae034bcbd1_js_out_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:39:01</sys_updated_on>
         <url/>
