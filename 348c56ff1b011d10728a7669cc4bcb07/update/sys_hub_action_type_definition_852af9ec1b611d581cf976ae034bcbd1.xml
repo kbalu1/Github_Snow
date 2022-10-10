@@ -13,27 +13,27 @@
         <description/>
         <ih_action>false</ih_action>
         <internal_name>copy_of_backupsitecode_ctask_javascript</internal_name>
-        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceUiUniqueId":"","sourceType":"","uiType":"string","uiUniqueId":"9a232d31-e5af-4883-b96a-f2032ab3536e"}},{"name":"{{action.ctask}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceUiUniqueId":"","sourceType":"","uiType":"string","uiUniqueId":"9a232d31-e5af-4883-b96a-f2032ab3536e"}},{"name":"{{action.ctask}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.short_des}}","label":"action➛Short_des","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master_snapshot>214e75241be11d581cf976ae034bcb5c</master_snapshot>
         <name>backupsitecode_inc_javascript</name>
         <natlang/>
         <outputs/>
         <outputs/>
-        <state>draft</state>
+        <state>published</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:39:00</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>852af9ec1b611d581cf976ae034bcbd1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>backupsitecode_inc_javascript</sys_name>
         <sys_overrides/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_852af9ec1b611d581cf976ae034bcbd1</sys_update_name>
-        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
-        <sys_updated_on>2022-09-30 18:56:44</sys_updated_on>
+        <sys_updated_by>AP\BHAVANR</sys_updated_by>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -1075,13 +1075,13 @@ while(gr.next())
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="backupsitecode_inc_javascript">852af9ec1b611d581cf976ae034bcbd1</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"ca4eb5241be11d581cf976ae034bcb35","name":"plan","plan_signature":null}}</plan>
-        <snapshot>394e75241be11d581cf976ae034bcbe5</snapshot>
+        <snapshot>15670fc51b1a5510728a7669cc4bcb0e</snapshot>
         <sys_class_name>sys_hub_action_plan</sys_class_name>
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:57:06</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>ca4eb5241be11d581cf976ae034bcb35</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1089,7 +1089,7 @@ while(gr.next())
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:06</sys_updated_on>
+        <sys_updated_on>2022-10-01 05:20:36</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -1103,7 +1103,7 @@ while(gr.next())
         <copied_from_name/>
         <description/>
         <internal_name>backupsitecode_inc_javascript</internal_name>
-        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛incident","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.ctask}}","label":"action➛incident","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"38c1cc03-9a70-49cb-afc0-3b14eedd07cc"}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.inc_input}}","label":"action➛sitecode","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e34e4b0-e52b-46c8-8149-dd39a9899754"}},{"name":"{{action.inc_input1}}","label":"action➛inc_input","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.site_codes}}","label":"action➛site_codes","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.incident}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceUiUniqueId":"","sourceType":"","uiType":"string","uiUniqueId":"9a232d31-e5af-4883-b96a-f2032ab3536e"}},{"name":"{{action.ctask}}","label":"action➛ctask","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.inc}}","label":"action➛inc","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.short_des}}","label":"action➛Short_des","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].variable}}","label":"step➛Script step➛variable","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].id}}","label":"step➛Script step➛id","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}","label":"step➛Script step➛Step Status➛Message","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}","label":"step➛Script step➛Step Status➛Code","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master>true</master>
         <name>backupsitecode_inc_javascript</name>
         <natlang/>
@@ -1115,7 +1115,7 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:04</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>214e75241be11d581cf976ae034bcb5c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1123,7 +1123,7 @@ while(gr.next())
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:04</sys_updated_on>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -1137,10 +1137,10 @@ while(gr.next())
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:57:05</sys_created_on>
         <sys_id>314e75241be11d581cf976ae034bcbe3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
-        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDb94e752496e11d58954422dbc72a118e":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDb94e752496e11d58954422dbc72a118e.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDb94e752496e11d58954422dbc72a118e\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDb94e752496e11d58954422dbc72a118e":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDb94e752496e11d58954422dbc72a118e.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"762b03d1-1003-47a6-986c-e2184159f1e9\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDb94e752496e11d58954422dbc72a118e\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">714e75241be11d581cf976ae034bcb91</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1213,14 +1213,14 @@ while(gr.next())
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:57:04</sys_created_on>
         <sys_id>a94e75241be11d581cf976ae034bcb76</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
         <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:04</sys_updated_on>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a94e75241be11d581cf976ae034bcb76"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1231,27 +1231,42 @@ while(gr.next())
         <sys_created_by>AP\BHAVANR</sys_created_by>
         <sys_created_on>2022-08-23 03:57:05</sys_created_on>
         <sys_id>314e75241be11d581cf976ae034bcb8b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 
 var gr1 = inputs.code;
  var inc_num = inputs.inc;
 var code_split = gr1.split(",");
 for(var i=0; i &lt; code_split.length; i++){
-gs.info('Test1' +code_split[i]);
+//gs.info('Test1' +code_split[i]);
 var gr = new GlideRecord("incident");
-gr.addQuery('number', inc_num);
- gr.addQuery('123TEXTQUERY321',code_split[i]);
+//gr.addQuery('number', inc_num);
+gr.addEncodedQuery('number=' +inc_num + '^short_descriptionLIKE' +code_split[i] + '^ORdescriptionLIKE' +code_split[i] + '^ORclose_notesLIKE' +code_split[i] + '^ORwork_notes_listLIKE' +code_split[i]);
 //gs.info('Test' +gr.getEncodedQuery());
 gr.query();
- 
+gs.info('Testconcat' +gr.getEncodedQuery());
 while(gr.next())
 {
-    outputs.id=code_split[i];
+  var id;
+  var string = outputs.id = gr.short_description;
+  var descrip = outputs.id = gr.description;
+  var notes = outputs.id = gr.close_notes;
+  var consolidate = string.concat(" "+descrip+ " " +notes)
+  gs.info('merge' +consolidate);
+  var match = code_split[i]; // word to match
+  var regex = new RegExp('\\b('+match+')\\b');
+  var result = (consolidate.match(regex) != null);
+  if (result == true){
+   gs.info("Yes!!! we got the correct incident to close");
+   outputs.id=code_split[i];
    }
- 
+  else{
+    gs.info("not working");
+    gs.info('merge' +consolidate);
+    outputs.id="invalid record"};
+   }
 }
 })(inputs, outputs);
 </value>
@@ -1295,6 +1310,18 @@ while(gr.next())
         <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_a94e75241be11d581cf976ae034bcb76</table>
         <value>{{action.incident}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>script</field>
+        <id>a94e75241be11d581cf976ae034bcb76</id>
+        <sys_created_by>AP\BHAVANR</sys_created_by>
+        <sys_created_on>2022-10-01 05:20:35</sys_created_on>
+        <sys_id>9967cbc51b1a5510728a7669cc4bcbf3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AP\BHAVANR</sys_updated_by>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_a94e75241be11d581cf976ae034bcb76^id=a94e75241be11d581cf976ae034bcb76"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=a94e75241be11d581cf976ae034bcb76"/>
@@ -1558,11 +1585,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:04</sys_created_on>
         <sys_id>ed4e75241be11d581cf976ae034bcb86</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>id</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a94e75241be11d581cf976ae034bcb76_id_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:04</sys_updated_on>
         <url/>
@@ -2000,20 +2027,20 @@ while(gr.next())
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
     </sys_hub_action_status_metadata>
-    <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=714e75241be11d581cf976ae034bcbe5^sys_idNOT INb54e75241be11d581cf976ae034bcbe5"/>
+    <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=714e75241be11d581cf976ae034bcbe5^sys_idNOT IN55670fc51b1a5510728a7669cc4bcb0d"/>
     <sys_hub_status_condition action="INSERT_OR_UPDATE">
         <action_status_metadata_id display_value="Created 2022-08-22 22:57:05">714e75241be11d581cf976ae034bcbe5</action_status_metadata_id>
         <condition>{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}&gt;=1</condition>
         <dont_treat_as_error>false</dont_treat_as_error>
         <label/>
         <order>1</order>
-        <status>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"8c2f6ab2-23c4-4158-882d-ecc8f777c4af\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</status>
+        <status>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[31a0e1d1-c39c-4e4a-897b-02e5fa84c508].__step_status__.message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"c002e00d-bbf9-4ee6-b89f-79b242f63f8c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</status>
         <sys_created_by>AP\BHAVANR</sys_created_by>
-        <sys_created_on>2022-08-23 03:57:05</sys_created_on>
-        <sys_id>b54e75241be11d581cf976ae034bcbe5</sys_id>
+        <sys_created_on>2022-10-01 05:20:35</sys_created_on>
+        <sys_id>55670fc51b1a5510728a7669cc4bcb0d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
-        <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
+        <sys_updated_on>2022-10-01 05:20:35</sys_updated_on>
     </sys_hub_status_condition>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_214e75241be11d581cf976ae034bcb5c^sys_idNOT IN694e75241be11d581cf976ae034bcb74,ad4e75241be11d581cf976ae034bcb6f"/>
     <sys_documentation action="INSERT_OR_UPDATE">
@@ -2029,11 +2056,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:04</sys_created_on>
         <sys_id>694e75241be11d581cf976ae034bcb74</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>incident</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_214e75241be11d581cf976ae034bcb5c_incident_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:04</sys_updated_on>
         <url/>
@@ -2052,11 +2079,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:04</sys_created_on>
         <sys_id>ad4e75241be11d581cf976ae034bcb6f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sitecode</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_214e75241be11d581cf976ae034bcb5c_inc_input_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:04</sys_updated_on>
         <url/>
@@ -2077,11 +2104,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:05</sys_created_on>
         <sys_id>754e75241be11d581cf976ae034bcbae</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Action Status</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_214e75241be11d581cf976ae034bcb5c___action_status___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
         <url/>
@@ -2100,11 +2127,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:05</sys_created_on>
         <sys_id>754e75241be11d581cf976ae034bcbb5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Don't Treat as Error</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_214e75241be11d581cf976ae034bcb5c___dont_treat_as_error___en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
         <url/>
@@ -2123,11 +2150,11 @@ while(gr.next())
         <sys_created_on>2022-08-23 03:57:05</sys_created_on>
         <sys_id>b54e75241be11d581cf976ae034bcbdf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>js_out</sys_name>
+        <sys_name/>
         <sys_package display_value="backup_closure" source="x_iem_backup_closu">348c56ff1b011d10728a7669cc4bcb07</sys_package>
         <sys_policy/>
         <sys_scope display_value="backup_closure">348c56ff1b011d10728a7669cc4bcb07</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_214e75241be11d581cf976ae034bcb5c_js_out_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>AP\BHAVANR</sys_updated_by>
         <sys_updated_on>2022-08-23 03:57:05</sys_updated_on>
         <url/>
@@ -2137,6 +2164,6 @@ while(gr.next())
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>852af9ec1b611d581cf976ae034bcbd1</sys_id>
         <latest_snapshot>214e75241be11d581cf976ae034bcb5c</latest_snapshot>
-        <compiler_build>glide-sandiego-12-22-2021__patch4a-06-21-2022_07-12-2022_1907.zip</compiler_build>
+        <compiler_build>glide-sandiego-12-22-2021__patch4b-07-19-2022_08-09-2022_1837.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>
